@@ -1,0 +1,5 @@
+[package]
+org = "bctestorg"
+name = "disttest"
+version = "1.0.4"
+distribution = "2201.99.0"

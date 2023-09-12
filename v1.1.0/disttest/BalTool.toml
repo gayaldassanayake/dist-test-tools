@@ -1,0 +1,5 @@
+[tool]
+id="disttest"
+
+[[dependency]]
+path="/Users/gayaldassanayake/Documents/dist-test-tools/v1.0.0/DistTestCommand/build/libs/DistTestCommand-1.1.0.jar"
